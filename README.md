@@ -17,7 +17,7 @@
 
 ### 🛠️ My favorite tools
 
-#### 👨‍💻 Programming languages
+#### Programming languages
 
 <p>
     <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
@@ -33,7 +33,7 @@
     <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 </p>
 
-#### 🧰 Frameworks and libraries
+#### Frameworks and libraries
 
 <p>
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
@@ -43,7 +43,7 @@
     </p>
 
 
-#### 🗄️ Cloud Platform
+#### Cloud Platform
 
 <p>
     <a href="#"><img alt="AWS" src ="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
@@ -52,7 +52,7 @@
     <a href="#"><img alt="SAP" src ="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"></a>
     </p>
 
-#### 💻 Software and tools
+#### Software and tools
 
 <p>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
@@ -63,7 +63,7 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-### Social
+#### Social
 
 <div> 
   <a href = "mailto:tokay_salmons.02@icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
