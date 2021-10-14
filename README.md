@@ -4,9 +4,17 @@
   <a href="https://github.com/meirarc">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=meirarc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meirarc&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=meirarc&theme=tokyonight"/>
-
+  </a>
 </div>
+
+## 🔥 Streak stats
+
+<p align="center">
+  <a href="https://github.com/meirarc">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=meirarc&theme=tokyonight"/>
+  </a>
+</p>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
