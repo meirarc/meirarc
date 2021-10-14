@@ -7,7 +7,7 @@
   </a>
 </div>
 
-## 🔥 Streak stats
+### 🔥 Streak stats
 
 <p align="center">
   <a href="https://github.com/meirarc">
@@ -15,9 +15,9 @@
   </a>
 </p>
 
-## 🛠️ My favorite tools
+### 🛠️ My favorite tools
 
-### 👨‍💻 Programming languages
+#### 👨‍💻 Programming languages
 
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
@@ -32,7 +32,7 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 </p>
 
-### 🧰 Frameworks and libraries
+#### 🧰 Frameworks and libraries
 
 <p>
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
@@ -41,7 +41,7 @@
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
     </p>
 
-### 🗄️ Databases and cloud hosting
+#### 🗄️ Databases and cloud hosting
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
@@ -51,7 +51,7 @@
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
     </p>
 
-### 💻 Software and tools
+#### 💻 Software and tools
 
 <p>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
@@ -62,7 +62,7 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-##
+### Social
 
 <div> 
   <a href = "mailto:tokay_salmons.02@icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
