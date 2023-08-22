@@ -55,7 +55,7 @@
     <a href="#"><img alt="Azure" src ="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
     <a href="#"><img alt="SAP" src ="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"></a>
     
-    </p>
+  </p>
 </details>
 <details>
   <summary><b>Software & Other Tools</b></summary>
