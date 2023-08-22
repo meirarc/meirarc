@@ -1,6 +1,8 @@
 ## Rafael Cabrera
 
-👋 Hi there! I'm a developer specializing in IoT, Cloud, and SAP technologies. Passionate about solving real-world problems through technology.
+👋 Hi there. I'm Rafael, a passionate developer with expertise in IoT, Cloud, and SAP technologies. I'm driven by the challenge of creating innovative solutions that leave a mark on the world. Dive into my journey below!
+
+
 
 
 <div align="center">
