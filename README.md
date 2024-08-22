@@ -14,9 +14,7 @@
 
 ### 🔥 Streak Stats
 <div align="center">
-    <a href="https://github.com/meirarc">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=meirarc&theme=tokyonight"/>
-    </a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=meirarc%40gmail.com" alt="GitHub Streak" /></a>
 </div>
 
 ### 🛠️ Tools & Technologies
