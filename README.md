@@ -4,22 +4,19 @@
 
 
 
+[![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=meirarc&include_all_commits=true&count_private=true")](https://github.com/meirarc/github-readme-stats)
 
-<div align="center">
-    <a href="https://github.com/meirarc">
-        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=meirarc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meirarc&layout=compact&langs_count=7&theme=tokyonight"/>
-    </a>
-</div>
+
+
 
 ### 🔥 Streak Stats
-<div align="center">
-    <a href="https://github.com/meirarc">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=meirarc&theme=tokyonight"/>
-    </a>
-</div>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=meirarc)](https://git.io/streak-stats)
 
 ### 🛠️ Tools & Technologies
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meirarc&layout=compact)
+
 
 
 <details>
