@@ -2,12 +2,7 @@
 
 👋 Hi there. I'm Rafael, a passionate developer with expertise in IoT, Cloud, and SAP technologies. I'm driven by the challenge of creating innovative solutions that leave a mark on the world. Dive into my journey below!
 
-
-
-[![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=meirarc&include_all_commits=true&count_private=true")](https://github.com/meirarc/github-readme-stats)
-
-
-
+[![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=meirarc&include_all_commits=true&count_private=true)](https://github.com/meirarc/github-readme-stats)
 
 ### 🔥 Streak Stats
 
@@ -16,8 +11,6 @@
 ### 🛠️ Tools & Technologies
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meirarc&layout=compact)
-
-
 
 <details>
   <summary><b>Programming Languages</b></summary>
@@ -33,33 +26,33 @@
     <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
     <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-</p>
+  </p>
 </details>
+
 <details>
   <summary><b>Frameworks & Libraries</b></summary>
   <p align="center">
-  <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
+    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="JUnit" src="https://custom-icon-badges.herokuapp.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    </p>
   </p>
 </details>
+
 <details>
   <summary><b>Cloud Platforms</b></summary>
-  <p align="center"> 
-  
-  <a href="#"><img alt="AWS" src ="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
+  <p align="center">
+    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
     <a href="#"><img alt="Google" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
-    <a href="#"><img alt="Azure" src ="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
-    <a href="#"><img alt="SAP" src ="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"></a>
-    
+    <a href="#"><img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
+    <a href="#"><img alt="SAP" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"></a>
   </p>
 </details>
+
 <details>
   <summary><b>Software & Other Tools</b></summary>
-  <p align="center"> 
-  <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
+  <p align="center">
+    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
@@ -68,10 +61,8 @@
   </p>
 </details>
 
-
-
 ### 🌐 Get in Touch
 <div align="center">
-    <a href = "mailto:tokay_salmons.02@icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/rafael-m-cabrera/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:tokay_salmons.02@icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafael-m-cabrera/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
