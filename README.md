@@ -4,6 +4,8 @@
 - Build scalable IoT solutions that connect edge devices with the cloud
 - Extend SAP platforms to deliver actionable insights
 - Collaborative problem-solver who turns ideas into reliable products
+  - Achieved 99%+ inventory tracking accuracy on an Accenture IoT rollout, reducing manual reconciliations and boosting supply-chain reliability
+  - Coordinated cross-platform integrations at Sanofi, streamlining data flow to accelerate manufacturing decisions and cut release delays
 
 [![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=meirarc&include_all_commits=true&count_private=true)](https://github.com/meirarc/github-readme-stats)
 
