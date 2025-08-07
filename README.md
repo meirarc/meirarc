@@ -22,6 +22,13 @@
 - IT solutions
 - Languages: English, Portuguese, Spanish
 
+### 🚀 Projects to Explore
+
+- [Ultrasonic Sensor Library](https://github.com/meirarc/ultrasonic-sensor-library): Arduino library for distance measurement with ultrasonic sensors.
+- [Button Library](https://github.com/meirarc/button-library): Debounced button input handling for embedded applications.
+- [Web Scraping Notebook](https://github.com/meirarc/web-scraping-notebook): Jupyter notebook showcasing data extraction techniques.
+- [IWDT Library](https://github.com/meirarc/iwdt-library): Independent watchdog timer utilities for robust embedded systems.
+- [ML in R](https://github.com/meirarc/ml-in-r): Explorations of machine learning workflows using R.
 [![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=meirarc&include_all_commits=true&count_private=true)](https://github.com/meirarc/github-readme-stats)
 
 ### 🔥 Streak Stats
