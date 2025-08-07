@@ -4,6 +4,12 @@
 - Extend SAP platforms to deliver actionable insights
 - Collaborative problem-solver who turns ideas into reliable products
 
+### 🌟 About Me
+
+- 💼 SAP & Cloud Integration Architect
+- 📅 15+ years of experience
+- 🔧 Key Technologies: SAP S/4 HANA, BRIM, BTP, PI/PO, AWS
+
 [![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=meirarc&include_all_commits=true&count_private=true)](https://github.com/meirarc/github-readme-stats)
 
 ### 🔥 Streak Stats
