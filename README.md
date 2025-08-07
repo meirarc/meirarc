@@ -1,8 +1,17 @@
-## About Me
+## Hey there! I'm **Rafael Cabrera** 👋
+*Bridging business goals with cutting-edge technology.*
 
 - IoT & Cloud Developer building scalable solutions that connect edge devices with the cloud
 - Extend SAP platforms to deliver actionable insights
 - Collaborative problem-solver who turns ideas into reliable products
+  - Achieved 99%+ inventory tracking accuracy on an Accenture IoT rollout, reducing manual reconciliations and boosting supply-chain reliability
+  - Coordinated cross-platform integrations at Sanofi, streamlining data flow to accelerate manufacturing decisions and cut release delays
+
+### 🌟 About Me
+
+- 💼 SAP & Cloud Integration Architect
+- 📅 15+ years of experience
+- 🔧 Key Technologies: SAP S/4 HANA, BRIM, BTP, PI/PO, AWS
 
 ### Certifications & Skills
 
