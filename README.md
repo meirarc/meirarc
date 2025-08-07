@@ -4,9 +4,10 @@
 - Extend SAP platforms to deliver actionable insights
 - Collaborative problem-solver who turns ideas into reliable products
 
-[![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=meirarc&include_all_commits=true&count_private=true)](https://github.com/meirarc/github-readme-stats)
 
-### 🔥 Streak Stats
+### 📊 GitHub Stats
+
+[![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=meirarc&include_all_commits=true&count_private=true)](https://github.com/meirarc/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=meirarc)](https://git.io/streak-stats)
 
@@ -16,8 +17,8 @@
 - **Frameworks:** Node.js, React, Arduino
 - **Cloud:** AWS, Google Cloud, Azure, SAP BTP
 - **Tools:** Git, VS Code, Postman
- 
-### 🌐 Get in Touch
+
+### 📬 Let's Connect!
 <div align="center">
   <a href="mailto:tokay_salmons.02@icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafael-m-cabrera/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
