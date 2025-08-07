@@ -16,7 +16,13 @@
 - **Frameworks:** Node.js, React, Arduino
 - **Cloud:** AWS, Google Cloud, Azure, SAP BTP
 - **Tools:** Git, VS Code, Postman
- 
+
+### 🤝 Community & Knowledge Sharing
+
+- **Open-source libraries:** Contribute and maintain community-driven projects
+- **Webinars:** Share insights through online sessions
+- **Local meetup talks:** Present and learn at in-person gatherings
+
 ### 🌐 Get in Touch
 <div align="center">
   <a href="mailto:tokay_salmons.02@icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
